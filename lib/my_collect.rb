@@ -6,4 +6,5 @@ def my_collect
         i = i + 1
       end
     end
+  end
 
